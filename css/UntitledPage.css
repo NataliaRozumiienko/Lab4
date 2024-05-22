@@ -1,0 +1,886 @@
+.untitled-page.root {
+  background: var(--src) center center/100% 100% no-repeat;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 6919px;
+  overflow: hidden;
+  width: 1920px;
+}
+.untitled-page .rect {
+  background-color: #e8dcdc;
+  bottom: 0px;
+  height: 439px;
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  top: 6480px;
+  width: 1920px;
+}
+
+.untitled-page .medium_title {
+  bottom: 230px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 28px;
+  left: 479px;
+  letter-spacing: 2.44px;
+  position: absolute;
+  right: 1227px;
+  top: 6661px;
+  width: 214px;
+}
+.untitled-page .medium_title1 {
+  bottom: 230px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 28px;
+  left: 990px;
+  letter-spacing: 2.34px;
+  position: absolute;
+  right: 821px;
+  top: 6661px;
+  width: 109px;
+}
+.untitled-page .medium_title2 {
+  bottom: 230px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 28px;
+  left: 1551px;
+  letter-spacing: 2.44px;
+  position: absolute;
+  right: 101px;
+  top: 6661px;
+  width: 268px;
+}
+.untitled-page .medium_title3 {
+  bottom: 162px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 28px;
+  left: 479px;
+  letter-spacing: 2.44px;
+  position: absolute;
+  right: 1229px;
+  top: 6729px;
+  width: 212px;
+}
+.untitled-page .medium_title4 {
+  bottom: 162px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 28px;
+  left: 990px;
+  letter-spacing: 2.64px;
+  position: absolute;
+  right: 826px;
+  top: 6729px;
+  width: 104px;
+}
+.untitled-page .medium_title5 {
+  bottom: 162px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 28px;
+  left: 1551px;
+  letter-spacing: 2.64px;
+  position: absolute;
+  right: 279px;
+  top: 6729px;
+  width: 90px;
+}
+.untitled-page .medium_title6 {
+  bottom: 94px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 28px;
+  left: 479px;
+  letter-spacing: 2.64px;
+  position: absolute;
+  right: 1187px;
+  top: 6797px;
+  width: 254px;
+}
+.untitled-page .medium_title7 {
+  bottom: 94px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 28px;
+  left: 990px;
+  letter-spacing: 2.44px;
+  position: absolute;
+  right: 662px;
+  top: 6797px;
+  width: 268px;
+}
+.untitled-page .medium_title8 {
+  bottom: 94px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 28px;
+  left: 1551px;
+  letter-spacing: 2.64px;
+  position: absolute;
+  right: 249px;
+  top: 6797px;
+  width: 120px;
+}
+.untitled-page .hero_title {
+  bottom: 298px;
+  color: rgba(0, 0, 0, 0.6);
+  font: 400 40px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 47px;
+  left: 484px;
+  letter-spacing: 4.4px;
+  position: absolute;
+  right: 1225px;
+  top: 6574px;
+  width: 211px;
+}
+.untitled-page .hero_title1 {
+  bottom: 298px;
+  color: rgba(0, 0, 0, 0.6);
+  font: 400 40px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 47px;
+  left: 1551px;
+  letter-spacing: 4.4px;
+  position: absolute;
+  right: 187px;
+  top: 6574px;
+  width: 182px;
+}
+.untitled-page .hero_title2 {
+  bottom: 298px;
+  color: rgba(0, 0, 0, 0.6);
+  font: 400 40px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 47px;
+  left: 990px;
+  letter-spacing: 4.4px;
+  position: absolute;
+  right: 673px;
+  top: 6574px;
+  width: 257px;
+}
+.untitled-page .hero_title11 {
+  bottom: 195px;
+  color: #cc435b;
+  font: 400 48px/1.45 "Hachi Maru Pop", Helvetica, Arial, serif;
+  height: 70px;
+  left: 100px;
+  letter-spacing: 5.28px;
+  position: absolute;
+  right: 1580px;
+  top: 6654px;
+  width: 240px;
+}
+.untitled-page .cover {
+  bottom: 660px;
+  height: 1227px;
+  left: 25px;
+  position: absolute;
+  right: 24px;
+  top: 5032px;
+  width: 1871px;
+}
+.untitled-page .subtitle {
+  bottom: 1146px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 20px/1.14 "Raleway", Helvetica, Arial, serif;
+  height: 23px;
+  left: 760px;
+  letter-spacing: 2.1px;
+  position: absolute;
+  right: 900px;
+  top: 5750px;
+  width: 260px;
+}
+.untitled-page .medium_title11 {
+  bottom: 966px;
+  color: black;
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 140px;
+  left: 750px;
+  letter-spacing: 2.64px;
+  position: absolute;
+  right: 294px;
+  top: 5813px;
+  width: 876px;
+}
+.untitled-page .medium_title12 {
+  bottom: 1381px;
+  color: black;
+  font: 400 24px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 140px;
+  left: 750px;
+  letter-spacing: 2.64px;
+  position: absolute;
+  right: 233px;
+  top: 5398px;
+  width: 937px;
+}
+.untitled-page .subtitle1 {
+  bottom: 1561px;
+  color: rgba(0, 0, 0, 0.498);
+  font: 400 20px/1.14 "Raleway", Helvetica, Arial, serif;
+  height: 23px;
+  left: 750px;
+  letter-spacing: 2.1px;
+  position: absolute;
+  right: 947px;
+  top: 5335px;
+  width: 223px;
+}
+.untitled-page .hero_title21 {
+  bottom: 1660px;
+  color: black;
+  font: 400 64px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 75px;
+  left: 838px;
+  letter-spacing: 7.04px;
+  position: absolute;
+  right: 807px;
+  top: 5184px;
+  width: 275px;
+}
+.untitled-page .image1 {
+  bottom: 1299px;
+  height: 262px;
+  left: 416px;
+  position: absolute;
+  right: 1242px;
+  top: 5358px;
+  width: 262px;
+}
+.untitled-page .image11 {
+  bottom: 869px;
+  height: 262px;
+  left: 416px;
+  position: absolute;
+  right: 1242px;
+  top: 5788px;
+  width: 262px;
+}
+.untitled-page .image2 {
+  bottom: 2173px;
+  height: 405px;
+  left: 1322px;
+  position: absolute;
+  right: 179px;
+  top: 4341px;
+  width: 419px;
+}
+.untitled-page .rect1 {
+  background-color: rgba(252, 231, 174, 0.898);
+  border-radius: 41px 41px 41px 41px;
+  bottom: 2109px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.247);
+  height: 82px;
+  left: 1331px;
+  position: absolute;
+  right: 202px;
+  top: 4728px;
+  width: 387px;
+}
+.untitled-page .title {
+  bottom: 2131px;
+  color: rgba(0, 0, 0, 0.749);
+  display: flex;
+  font: 500 32px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 38px;
+  justify-content: center;
+  left: 1417px;
+  position: absolute;
+  right: 288px;
+  text-align: center;
+  top: 4750px;
+  width: 215px;
+}
+.untitled-page .rect2 {
+  background-color: #c7e8bc;
+  border-radius: 173px 173px 173px 173px;
+  bottom: 2203px;
+  height: 346px;
+  left: 753px;
+  position: absolute;
+  right: 753px;
+  top: 4370px;
+  width: 414px;
+}
+.untitled-page .image3 {
+  bottom: 2195px;
+  height: 360px;
+  left: 780px;
+  position: absolute;
+  right: 780px;
+  top: 4364px;
+  width: 360px;
+}
+.untitled-page .rect11 {
+  background-color: rgba(252, 231, 174, 0.898);
+  border-radius: 41px 41px 41px 41px;
+  bottom: 2108px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.247);
+  height: 82px;
+  left: 758px;
+  position: absolute;
+  right: 775px;
+  top: 4729px;
+  width: 387px;
+}
+.untitled-page .title1 {
+  bottom: 2130px;
+  color: rgba(0, 0, 0, 0.749);
+  display: flex;
+  font: 500 32px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 38px;
+  justify-content: center;
+  left: 814px;
+  position: absolute;
+  right: 831px;
+  text-align: center;
+  top: 4751px;
+  width: 275px;
+}
+.untitled-page .cover1 {
+  bottom: 2092px;
+  height: 566px;
+  left: 122px;
+  position: absolute;
+  right: 1263px;
+  top: 4261px;
+  width: 535px;
+}
+.untitled-page .rect12 {
+  background-color: rgba(252, 231, 174, 0.898);
+  border-radius: 41px 41px 41px 41px;
+  bottom: 2109px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.247);
+  height: 82px;
+  left: 195px;
+  position: absolute;
+  right: 1338px;
+  top: 4728px;
+  width: 387px;
+}
+.untitled-page .title2 {
+  bottom: 2131px;
+  color: rgba(0, 0, 0, 0.749);
+  display: flex;
+  font: 500 32px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 38px;
+  justify-content: center;
+  left: 236px;
+  position: absolute;
+  right: 1379px;
+  text-align: center;
+  top: 4750px;
+  width: 305px;
+}
+.untitled-page .rect21 {
+  background-color: #c7e8bc;
+  border-radius: 173px 173px 173px 173px;
+  bottom: 2655px;
+  height: 346px;
+  left: 1324px;
+  position: absolute;
+  right: 182px;
+  top: 3918px;
+  width: 414px;
+}
+.untitled-page .rect13 {
+  background-color: rgba(252, 231, 174, 0.898);
+  border-radius: 41px 41px 41px 41px;
+  bottom: 2561px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.247);
+  height: 82px;
+  left: 1331px;
+  position: absolute;
+  right: 202px;
+  top: 4276px;
+  width: 387px;
+}
+.untitled-page .title3 {
+  bottom: 2583px;
+  color: rgba(0, 0, 0, 0.749);
+  display: flex;
+  font: 500 32px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 38px;
+  justify-content: center;
+  left: 1407.5px;
+  position: absolute;
+  right: 278.5px;
+  text-align: center;
+  top: 4298px;
+  width: 234px;
+}
+.untitled-page .image4 {
+  bottom: 2656px;
+  height: 345px;
+  left: 1312px;
+  position: absolute;
+  right: 182px;
+  top: 3918px;
+  width: 426px;
+}
+.untitled-page .rect22 {
+  background-color: #c7e8bc;
+  border-radius: 173px 173px 173px 173px;
+  bottom: 2655px;
+  height: 346px;
+  left: 753px;
+  position: absolute;
+  right: 753px;
+  top: 3918px;
+  width: 414px;
+}
+.untitled-page .image5 {
+  bottom: 2651px;
+  height: 401px;
+  left: 807px;
+  position: absolute;
+  right: 843px;
+  top: 3867px;
+  width: 270px;
+}
+.untitled-page .rect14 {
+  background-color: rgba(252, 231, 174, 0.898);
+  border-radius: 41px 41px 41px 41px;
+  bottom: 2561px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.247);
+  height: 82px;
+  left: 758px;
+  position: absolute;
+  right: 775px;
+  top: 4276px;
+  width: 387px;
+}
+.untitled-page .title4 {
+  bottom: 2583px;
+  color: rgba(0, 0, 0, 0.749);
+  display: flex;
+  font: 500 32px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 38px;
+  justify-content: center;
+  left: 837px;
+  position: absolute;
+  right: 854px;
+  text-align: center;
+  top: 4298px;
+  width: 229px;
+}
+.untitled-page .rect23 {
+  background-color: #c7e8bc;
+  border-radius: 173px 173px 173px 173px;
+  bottom: 2655px;
+  height: 346px;
+  left: 182px;
+  position: absolute;
+  right: 1324px;
+  top: 3918px;
+  width: 414px;
+}
+.untitled-page .rect15 {
+  background-color: rgba(252, 231, 174, 0.898);
+  border-radius: 41px 41px 41px 41px;
+  bottom: 2561px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.247);
+  height: 82px;
+  left: 195px;
+  position: absolute;
+  right: 1338px;
+  top: 4276px;
+  width: 387px;
+}
+.untitled-page .rect26 {
+  background-color: #c7e8bc;
+  border-radius: 173px 173px 173px 173px;
+  bottom: 2203px;
+  height: 346px;
+  left: 182px;
+  position: absolute;
+  right: 1324px;
+  top: 4370px;
+  width: 414px;
+}
+.untitled-page .rect28 {
+  background-color: #c7e8bc;
+  border-radius: 173px 173px 173px 173px;
+  bottom: 2203px;
+  height: 346px;
+  left: 1324px;
+  position: absolute;
+  right: 182px;
+  top: 4370px;
+  width: 414px;
+}
+
+.untitled-page .title5 {
+  bottom: 2583px;
+  color: rgba(0, 0, 0, 0.749);
+  display: flex;
+  font: 500 32px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 38px;
+  justify-content: center;
+  left: 228.5px;
+  position: absolute;
+  right: 1371.5px;
+  text-align: center;
+  top: 4298px;
+  width: 320px;
+}
+.untitled-page .image6 {
+  bottom: 2689px;
+  height: 279px;
+  left: 229px;
+  position: absolute;
+  right: 1372px;
+  top: 3951px;
+  width: 319px;
+}
+.untitled-page .hero_title3 {
+  bottom: 3041px;
+  color: black;
+  display: flex;
+  font: 500 64px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 75px;
+  justify-content: center;
+  left: 99px;
+  position: absolute;
+  right: 1285px;
+  text-align: center;
+  top: 3803px;
+  width: 536px;
+}
+.untitled-page .hero_title4 {
+  bottom: 4580px;
+  color: rgba(0, 0, 0, 0.749);
+  display: flex;
+  font: 500 64px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 75px;
+  justify-content: center;
+  left: 96.5px;
+  position: absolute;
+  right: 1574.5px;
+  text-align: center;
+  top: 2264px;
+  width: 249px;
+}
+.untitled-page .big_title {
+  bottom: 4372px;
+  color: rgba(0, 0, 0, 0.749);
+  font: 400 36px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 168px;
+  left: 100px;
+  position: absolute;
+  right: 100px;
+  top: 2379px;
+  width: 1720px;
+}
+.untitled-page .image7 {
+  bottom: 3582px;
+  height: 438px;
+  left: 1273px;
+  position: absolute;
+  right: 101px;
+  top: 2899px;
+  width: 546px;
+}
+.untitled-page .image8 {
+  bottom: 3585px;
+  height: 438px;
+  left: 100px;
+  position: absolute;
+  right: 1273px;
+  top: 2896px;
+  width: 547px;
+}
+.untitled-page .image71 {
+  bottom: 3585px;
+  height: 438px;
+  left: 687px;
+  position: absolute;
+  right: 687px;
+  top: 2896px;
+  width: 546px;
+}
+.untitled-page .big_title1 {
+  bottom: 3377px;
+  color: black;
+  display: flex;
+  font: 400 36px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 168px;
+  justify-content: center;
+  left: 100px;
+  position: absolute;
+  right: 1273px;
+  text-align: center;
+  top: 3374px;
+  width: 547px;
+}
+.untitled-page .big_title11 {
+  bottom: 3416px;
+  color: black;
+  display: flex;
+  font: 400 36px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 126px;
+  justify-content: center;
+  left: 1273px;
+  position: absolute;
+  right: 101px;
+  text-align: center;
+  top: 3377px;
+  width: 546px;
+}
+.untitled-page .big_title12 {
+  bottom: 3335px;
+  color: black;
+  display: flex;
+  font: 400 36px/1.16 "Raleway", Helvetica, Arial, serif;
+  height: 210px;
+  justify-content: center;
+  left: 687px;
+  position: absolute;
+  right: 687px;
+  text-align: center;
+  top: 3374px;
+  width: 546px;
+}
+.untitled-page .hero_title31 {
+  bottom: 4063px;
+  color: black;
+  display: flex;
+  font: 500 64px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 75px;
+  justify-content: center;
+  left: 99px;
+  position: absolute;
+  right: 1309px;
+  text-align: center;
+  top: 2781px;
+  width: 512px;
+}
+.untitled-page .box {
+  bottom: 4970px;
+  display: flex;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.247));
+  flex-direction: column;
+  height: 106px;
+  left: 262px;
+  position: absolute;
+  right: 238px;
+  top: 1843px;
+  width: 1420px;
+}
+.untitled-page .rect3 {
+  background-color: #c7e8bc;
+  border-radius: 53px 53px 53px 53px;
+  bottom: 0px;
+  height: 106px;
+  left: 459px;
+  position: absolute;
+  right: 481px;
+  top: 0px;
+  width: 480px;
+}
+.untitled-page .hero_title5 {
+  bottom: 33px;
+  color: black;
+  font: 400 40px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 47px;
+  left: 479px;
+  position: absolute;
+  right: 502px;
+  top: 26px;
+  width: 439px;
+}
+.untitled-page .rect4 {
+  background-color: #c7e8bc;
+  border-radius: 53px 53px 53px 53px;
+  bottom: 0px;
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  right: 1199px;
+  top: 0px;
+  width: 221px;
+}
+.untitled-page .hero_title51 {
+  bottom: 33px;
+  color: black;
+  font: 400 40px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 47px;
+  left: 48px;
+  position: absolute;
+  right: 1249px;
+  top: 26px;
+  width: 123px;
+}
+.untitled-page .rect5 {
+  background-color: #c7e8bc;
+  border-radius: 53px 53px 53px 53px;
+  bottom: 0px;
+  height: 106px;
+  left: 1198px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 222px;
+}
+.untitled-page .hero_title52 {
+  bottom: 33px;
+  color: black;
+  font: 400 40px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 47px;
+  left: 1225px;
+  position: absolute;
+  right: 27px;
+  top: 26px;
+  width: 168px;
+}
+.untitled-page .image9 {
+  bottom: 5116px;
+  height: 438px;
+  left: 99px;
+  position: absolute;
+  right: 100px;
+  top: 1365px;
+  width: 1721px;
+}
+.untitled-page .image10 {
+  bottom: 5774px;
+  height: 916px;
+  left: 986px;
+  position: absolute;
+  right: 93px;
+  top: 229px;
+  width: 841px;
+}
+.untitled-page .image111 {
+  bottom: 5835px;
+  height: 890px;
+  left: 1093px;
+  position: absolute;
+  right: 222px;
+  top: 194px;
+  width: 605px;
+}
+.untitled-page .hero_title6 {
+  bottom: 6186px;
+  color: rgba(0, 0, 0, 0.749);
+  display: flex;
+  font: 500 55px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 325px;
+  justify-content: center;
+  left: 215px;
+  position: absolute;
+  right: 949px;
+  text-align: center;
+  top: 408px;
+  width: 756px;
+}
+.untitled-page .box1 {
+  background-color: #c7e8bc;
+  border-radius: 42px 42px 42px 42px;
+  bottom: 6062px;
+  display: flex;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.247));
+  flex-direction: column;
+  height: 84px;
+  left: 400px;
+  position: absolute;
+  right: 1180px;
+  top: 773px;
+  width: 340px;
+}
+.untitled-page .title11 {
+  color: rgba(0, 0, 0, 0.75);
+  font: 400 28px/1.17 "Raleway", Helvetica, Arial, serif;
+  height: 33px;
+  margin: 25px 43px 26px 36px;
+  width: 261px;
+}
+.untitled-page .rect7 {
+  background-color: #fce7ae;
+  bottom: 6809px;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1920px;
+}
+.untitled-page .hero_title12 {
+  bottom: 6831px;
+  color: #cc435b;
+  font: 400 48px/1.45 "Hachi Maru Pop", Helvetica, Arial, serif;
+  height: 70px;
+  left: 97px;
+  letter-spacing: 5.28px;
+  position: absolute;
+  right: 1583px;
+  top: 18px;
+  width: 240px;
+}
+.untitled-page .title21 {
+  bottom: 6845px;
+  color: rgba(0, 0, 0, 0.458);
+  font: 400 32px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 38px;
+  left: 776px;
+  position: absolute;
+  right: 1020px;
+  top: 36px;
+  width: 124px;
+}
+.untitled-page .title22 {
+  bottom: 6845px;
+  color: rgba(0, 0, 0, 0.458);
+  font: 400 32px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 38px;
+  left: 555px;
+  position: absolute;
+  right: 1244px;
+  top: 36px;
+  width: 121px;
+}
+.untitled-page .title23 {
+  bottom: 6845px;
+  color: rgba(0, 0, 0, 0.5);
+  font: 400 32px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 38px;
+  left: 1000px;
+  position: absolute;
+  right: 638px;
+  top: 36px;
+  width: 282px;
+}
+.untitled-page .title24 {
+  bottom: 6845px;
+  color: rgba(0, 0, 0, 0.458);
+  font: 400 32px/1.18 "Raleway", Helvetica, Arial, serif;
+  height: 38px;
+  left: 1382px;
+  position: absolute;
+  right: 397px;
+  top: 36px;
+  width: 141px;
+}
+.untitled-page .image12 {
+  bottom: 6843px;
+  height: 43px;
+  left: 1770px;
+  position: absolute;
+  right: 100px;
+  top: 33px;
+  width: 50px;
+}
+.untitled-page .image13 {
+  bottom: 6839px;
+  height: 50px;
+  left: 1673px;
+  position: absolute;
+  right: 197px;
+  top: 30px;
+  width: 50px;
+}
